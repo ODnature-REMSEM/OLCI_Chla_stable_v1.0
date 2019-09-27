@@ -1,11 +1,11 @@
 # OLCI_Chla_stable_v1.0  
-Describe the stable (v1.0) version for Chlorophyll-a product from Heloise paper.  
+Describe the stable script version _(v1.0)_ for Chlorophyll-a product from Héloïse paper.  
   
   
 ## Getting Started  
 These instructions will allow:  
 - Run on your local machine the Sentinel-3 OLCI L2 data for development and testing purposes.  
-- Create the stable (v1.0) version from Heloise Chla product.  
+- Create the stable script version _(v1.0)_ from Héloïse Chla product.  
 - Use the last wavelenght thresholds.  
 - Improve the code and performance.  
 - Keep clear where to find the script for future uses.  
@@ -15,7 +15,7 @@ These instructions will allow:
 - Python 2.x or 3.x  
   
 ### Run it  
-1) Take the Sentinel-3 OLCI data.  
+1) Take the Sentinel-3 OLCI data.
   - NOTE: each atmospheric correction (AC) return different names for Rrs, rho, flags.  
   
 ```  
@@ -32,7 +32,7 @@ The contribution are available for the authors and REMSEM team.
   
   
 ## Versioning  
-The currently versions of Chla script are:  
+The currently versions of Chla script are:
   - Héloïse:  
     - Version **??**.  
     - **File name.**  
